@@ -1,0 +1,5 @@
+ignore:
+  'SNYK-JAVA-ORGAPACHELOGGINGLOG4J-567761':
+    - '*':
+        reason: testing ugnore impact on a single target in two orgs
+        expires: 2023-12-31
